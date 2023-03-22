@@ -13,7 +13,7 @@ The macro take 4 parameters:
 - `Binary threshold` for segmentation (A.U.)
 - `Minimum object size` to discard small objects from the mask (pixel^2)
 
-Maximum projections, masks and the Results.csv table are automatically saved in the `data` folder. 
+Maximum projections, masks and the Results.csv table are automatically saved in the `data` directory. 
 
-⚠️ Please set path toward data directory to run the macro (first line) 
+⚠️ Please set path toward `data` directory to run the macro (first line) 
 
