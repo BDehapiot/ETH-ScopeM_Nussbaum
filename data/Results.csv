@@ -1,0 +1,13 @@
+ ,Label,%Area
+1,GL_HMA_edge_S1_rSize_maxProj_mask.tif,23.796
+2,GL_HMA_edge_S2_rSize_maxProj_mask.tif,16.935
+3,GL_LMA_edge_S1_rSize_maxProj_mask.tif,8.389
+4,GL_LMA_edge_S2_rSize_maxProj_mask.tif,4.518
+5,GL_SMA_edge_S1_rSize_maxProj_mask.tif,11.400
+6,GL_SMA_edge_S2_rSize_maxProj_mask.tif,10.539
+7,GS_HMA_edge_S1_rSize_maxProj_mask.tif,13.321
+8,GS_HMA_edge_S2_rSize_maxProj_mask.tif,18.264
+9,GS_LMA_edge_S1_rSize_maxProj_mask.tif,20.627
+10,GS_LMA_edge_S2_rSize_maxProj_mask.tif,25.691
+11,GS_SMA_edge_S1_rSize_maxProj_mask.tif,20.514
+12,GS_SMA_edge_S2_rSize_maxProj_mask.tif,12.895
