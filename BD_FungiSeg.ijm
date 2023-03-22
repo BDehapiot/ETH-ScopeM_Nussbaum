@@ -5,10 +5,10 @@ run("Set Measurements...", "area_fraction display redirect=None decimal=3");
 /// --- Dialog --- ///
 
 Dialog.create("FungiSeg-Options");
-RollingBallRadius = Dialog.addNumber("Roll. Ball Radius", 128);
-MedianFilterRadius = Dialog.addNumber("Med. Filt. Radius", 2);
-BinaryThresh = Dialog.addNumber("Binary Tresh.", 25);
-MinObjectSize = Dialog.addNumber("Min. Object Size (pixel^2)", 512);
+RollingBallRadius = Dialog.addNumber("Rolling ball radius (pixels)", 128);
+MedianFilterRadius = Dialog.addNumber("Median filter radius (pixels)", 2);
+BinaryThresh = Dialog.addNumber("Binary treshold (A.U.)", 25);
+MinObjectSize = Dialog.addNumber("Minimum object size (pixel^2)", 512);
 
 Dialog.show();
 
